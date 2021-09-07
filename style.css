@@ -2,6 +2,10 @@
     padding: 15px;
 }
 
+.divider2 {
+    padding: 25px;
+}
+
 .inputBar {
     text-align: center;
 }
@@ -46,6 +50,7 @@
   .jumbotron{
       text-align: center;
   }
+
 
 /*FOOTER*/
 Footer {
