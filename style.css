@@ -51,6 +51,14 @@
       text-align: center;
   }
 
+  #Tipo {
+      color: green;
+      font-weight: bold;
+  }
+
+  #Texto1 {
+      color: blue;
+  }
 
 /*FOOTER*/
 Footer {
